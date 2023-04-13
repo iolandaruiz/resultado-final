@@ -1,0 +1,28 @@
+.tudo{
+    background-color: burlywood;
+    color: white;
+}
+
+.imagem{
+    background-color: burlywood;
+    color: burlywood;
+
+
+}
+ 
+.panqueca-1{
+    width: 34%;
+}
+
+.ingredientes-novo{
+    justify-content: center;
+    align-items: center;
+}
+
+.ingredientes{
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+}
+
+
